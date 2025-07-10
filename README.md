@@ -93,14 +93,6 @@ The system is ideal for:
 
 ---
 
-## 👨‍💻 Contributors
-
-- **Team Name/Institution**: _e.g., Department of Computer Science, Amrita Vishwa Vidyapeetham_
-- **Developed by**: _Your Names_
-- **Year**: _2025_
-
----
-
 ## 📄 License
 
 This project is intended for educational and awareness purposes. If you wish to reuse or adapt this project, please contact the authors.
