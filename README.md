@@ -60,17 +60,27 @@ The system is ideal for:
 
 ## 📷 Screenshots
 
--Login Page
+-Front End
+
+--Login Page
 <img width="1853" height="775" alt="image" src="https://github.com/user-attachments/assets/32222a22-1bc2-4b0d-9540-596160be4fdc" />
 
--Home Page
+--Home Page
 <img width="1853" height="775" alt="image" src="https://github.com/user-attachments/assets/25c5dc7e-80ad-4d0d-99df-71ce202a57ef" />
 
--Admin Dashboard
+--Admin Dashboard
 <img width="1853" height="775" alt="image" src="https://github.com/user-attachments/assets/076a3b63-4ddb-46d7-9225-6cb1459c1545" />
 
--User Dashboard
+--User Dashboard
 <img width="1853" height="775" alt="image" src="https://github.com/user-attachments/assets/31aebc6e-6243-4172-be19-5183c6da6b4f" />
+
+-Backend
+
+--Firebase Database
+<img width="1493" height="655" alt="image" src="https://github.com/user-attachments/assets/09b55c5d-de50-49b5-827e-23803de448fe" />
+
+--Authentication for Login using Firebase
+<img width="929" height="686" alt="image" src="https://github.com/user-attachments/assets/9f2bca49-a623-4d33-ab73-5517e7d8c926" />
 
 ---
 
